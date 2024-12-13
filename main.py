@@ -8,3 +8,5 @@ table_bellman, predecesseurs = bellman(capacities, cost_matrix, SOURCE)
 afficher_matrice_capacites(capacities)
 afficher_matrice_couts(cost_matrix)
 afficher_table_bellman(table_bellman, predecesseurs)
+# Lancement de l'étude de la complexité
+etudier_complexite()
